@@ -1,0 +1,8 @@
+main: live.PowerBlock.NightVision.NightVision
+name: NightVision
+version: 1.0
+author: cuchufleto
+
+commands:
+  NightVision:
+    aliases: nv
