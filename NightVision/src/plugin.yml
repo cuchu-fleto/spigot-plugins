@@ -1,0 +1,22 @@
+main: live.PowerBlock.NightVision.NightVision
+name: NightVision
+version: 1.0
+author: cuchufleto
+
+commands:
+  NightVision:
+    aliases: nv
+
+permissions:
+  nightvision.*:
+    description: Gives access to all NightVision commands
+    children:
+      nightvision.toggle: true
+      nightvision.reload: true
+
+  nightvision.toggle:
+    description: Allows player to toggle NightVision
+    default: true
+  nightvision.reload:
+    description: Allows player to reload configuration
+    default: op

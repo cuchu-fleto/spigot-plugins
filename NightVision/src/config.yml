@@ -1,0 +1,38 @@
+#                                                                                                                           #
+#                                                                                                                           #
+#      __   __      __      ______      __  __      ______     __   __   __     ______     __     ______     __   __        #
+#     /\ "-.\ \    /\ \    /\  ___\    /\ \_\ \    /\__  _\   /\ \ / /  /\ \   /\  ___\   /\ \   /\  __ \   /\ "-.\ \       #
+#     \ \ \-.  \   \ \ \   \ \ \__ \   \ \  __ \   \/_/\ \/   \ \ \' |  \ \ \  \ \___  \  \ \ \  \ \ \/\ \  \ \ \-.  \      #
+#      \ \_\\"\_\   \ \_\   \ \_____\   \ \_\ \_\     \ \_\    \ \__|    \ \_\  \/\_____\  \ \_\  \ \_____\  \ \_\\"\_\     #
+#       \/_/ \/_/    \/_/    \/_____/    \/_/\/_/      \/_/     \/_/      \/_/   \/_____/   \/_/   \/_____/   \/_/ \/_/     #
+#                                                                                                                           #
+#                                                     Version 1.0                                                           #
+#                                                    by cuchufleto                                                          #
+
+
+
+
+
+#---------------------------------------------------  PLACEHOLDERS  --------------------------------------------------------#
+
+
+# prefix - Plugin prefix
+prefix: '&5&lNightVision &8&l\u00bb&7'
+
+
+
+#---------------------------------------------------  MESSAGES  ---------------------------------------------------------#
+
+# enable-message - message displayed to the console when plugin is enabled
+# disable-message - message displayed to the console when plugin is disabled
+# non-player-entity - message displayed when nonplayer entity attempts to toggle nightvision
+# no-permission - message displayed when player doesn't have permission to do something
+
+enable-message: 'NightVision » Plugin Enabled'
+disable-message: 'NightVision » Plugin Disabled'
+non-player-entity: '&cYou can''t do that.'
+no-permission: '&cYou don''t have permission to do that.'
+
+
+
+#if you have any suggestions for more preferences or features, please leave a comment on the Spigot resource page!
