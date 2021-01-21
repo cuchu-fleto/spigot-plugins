@@ -1,0 +1,8 @@
+main: live.powerblock.launch.launch
+name: launch
+version: 1.0
+author: cuchufleto
+
+commands:
+  launch:
+    aliases: fling

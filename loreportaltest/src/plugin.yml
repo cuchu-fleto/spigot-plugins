@@ -1,0 +1,6 @@
+main: me.cuchufleto.firearmor.main
+name: firearmor
+version: 1.0
+api-version: 1.16
+commands:
+  firearmor:

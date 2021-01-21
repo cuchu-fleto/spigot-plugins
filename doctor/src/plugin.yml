@@ -1,0 +1,7 @@
+main: live.powerblock.doctor.doctor
+name: doctor
+version: 1.0
+author: cuchufleto
+
+commands:
+  doctor:

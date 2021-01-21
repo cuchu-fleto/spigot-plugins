@@ -1,0 +1,3 @@
+firearmor.use:
+  description: basic permission to use /firearmor
+  default: true

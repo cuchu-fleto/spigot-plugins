@@ -1,0 +1,7 @@
+main: live.powerblock.godboots.godboots
+name: godboots
+version: 1.0
+author: cuchufleto
+
+commands:
+  godboots:

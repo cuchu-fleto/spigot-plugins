@@ -1,0 +1,7 @@
+main: me.cuchufleto.MobPoints.Main
+name: MobPoints
+version: 1.0
+api-version: 1.16
+author: cuchufleto
+commands:
+  mobpoints:

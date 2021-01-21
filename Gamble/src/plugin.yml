@@ -1,0 +1,8 @@
+main: me.cuchufleto.Gamble.Main
+name: Gamble
+version: 1.0
+author: cuchufleto
+api-version: 1.16
+
+commands:
+  gamble:

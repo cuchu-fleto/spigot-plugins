@@ -1,0 +1,8 @@
+main: live.powerblock.helloworld.helloworld
+name: helloworld
+api-version: 1.16
+version: 1.0
+author: cuchufleto
+description: helloworld, the first custom plugin on powerblock
+commands:
+  helloworld:

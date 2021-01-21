@@ -1,0 +1,9 @@
+main: me.cuchufleto.CharmEnchantments.Main
+name: CharmEnchantments
+version: 1.0
+api-version: 1.16
+author: cuchufleto
+commands:
+  excavation:
+  summoning:
+  deception:

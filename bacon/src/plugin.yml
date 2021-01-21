@@ -1,0 +1,8 @@
+main: live.PowerBlock.bacon.baconMain
+name: bacon
+version: 1.0
+author: cuchufleto
+description: send help
+
+commands:
+  bacon:
